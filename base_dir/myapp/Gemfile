@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
  gem 'colorize', '~> 0.7.3'
+ gem 'better_errors', '~> 2.0.0'
